@@ -1,0 +1,153 @@
+body{
+    margin:auto;
+    test-decoration:none;
+}
+a{
+    text-decoration:none;
+}
+#header{
+    height:60px;
+    background-color:#dd1c1c;
+}
+
+#icon{
+    float: left;
+    margin-left:1%;
+    margin-top:-1%
+}
+
+#social{
+    float: right; 
+}
+
+.slogo{
+    height:50px;
+    width:50px;
+}
+#loginid{
+    border-radius:10px;
+    color:rgb(14, 218, 92);
+    margin-top:20px;
+    background-color: rgb(231, 18, 28);
+}
+
+.headingText{
+    text-align:center;
+    font-size:30px;
+    font-weight: bold;
+    color:red;
+}
+
+#content{
+    display: inline-block;
+    width:80%;
+    margin-left:10%;
+}
+
+#filterDiv{
+    height:700px;
+    width:20%;
+    box-shadow:20px 20px 40px rgb(187, 184, 184);
+    float: left;
+}
+h1{
+    text-align: center;
+    color:rgb(45, 13, 184);
+}
+hr{
+    content:hidden;
+}
+h4{
+    color:rgb(218, 19, 19);
+    margin-left: 10px;
+}
+p{
+    color:#070200;
+    font-weight:bold;
+    
+}
+#b1{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#contentDiv{
+    height:700px;
+    width:77%;
+    margin-left: 2%;
+    float: left;
+    background-color:lightblue;
+}
+.branch{
+    height:180px;
+    width:70%;
+    margin-left: 2%;
+    margin-top: 2%;
+    box-shadow:20px 20px 20px grey;
+}
+.branch1{
+    width:40%;
+    height:180px;
+    float: left;
+}
+.branch1 > img{
+    width:100%;
+    height:160px;
+    border-radius:10px;
+}
+.branch2{
+    width:45%;
+    height:180px;
+    float: left;
+    
+}
+.componentHeading{
+    text-align: center;
+    font-weight:bold;
+    margin-top:10px;
+    font-size:20px;
+    color:rgb(9, 184, 67);
+
+}
+.componentSubHeading{
+    margin-top:10px;
+    margin-left:10px;
+    color:rgb(17, 16, 15);
+}
+#button1{
+    color:#e28b62;
+}
+#button11{
+    color:rgb(14, 197, 136);
+    margin-left:10px;
+}
+#button2{
+    color:#c9d60b;
+    margin-top: 10px;
+}
+#button21{
+    color:red;
+    margin-left:10px;
+}
+#footer{
+    height:120px;
+    width:100%;
+    margin-top: 5%;
+    background-color:#c25725
+}
+
+#footText{
+    text-align: center;
+}
+
+.footDiv{
+    height:70px;
+    width:33%;
+    float: left;
+    border-right: 2px solid black;
+    text-align: center;
+}
+
+.noBorder{
+    border:none 
+}
