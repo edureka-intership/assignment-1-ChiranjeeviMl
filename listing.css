@@ -2,7 +2,7 @@ body{
     margin:auto
 }
 a{
-    text-decoration:none
+    text-decoration:none;
 }
 #header{
     height:60px;
