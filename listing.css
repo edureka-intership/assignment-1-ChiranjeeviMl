@@ -1,13 +1,12 @@
 body{
-    margin:auto;
-    test-decoration:none;
+    margin:auto
 }
 a{
-    text-decoration:none;
+    text-decoration:none
 }
 #header{
     height:60px;
-    background-color:#dd1c1c;
+    background-color:#e28b62
 }
 
 #icon{
@@ -47,7 +46,7 @@ a{
 #filterDiv{
     height:700px;
     width:20%;
-    box-shadow:20px 20px 40px rgb(187, 184, 184);
+    box-shadow:20px 20px 60px grey;
     float: left;
 }
 h1{
@@ -64,11 +63,6 @@ h4{
 p{
     color:#070200;
     font-weight:bold;
-    
-}
-#b1{
-    margin-left: 30px;
-    margin-top: 10px;
 }
 
 #contentDiv{
@@ -76,7 +70,6 @@ p{
     width:77%;
     margin-left: 2%;
     float: left;
-    background-color:lightblue;
 }
 .branch{
     height:180px;
@@ -112,7 +105,7 @@ p{
 .componentSubHeading{
     margin-top:10px;
     margin-left:10px;
-    color:rgb(17, 16, 15);
+    color:rgb(226, 161, 21);
 }
 #button1{
     color:#e28b62;
@@ -128,6 +121,9 @@ p{
 #button21{
     color:red;
     margin-left:10px;
+}
+#b1{
+    margin-left:30px;
 }
 #footer{
     height:120px;
