@@ -1,5 +1,5 @@
 body{
-    margin:auto
+    margin:auto;
 }
 a{
     text-decoration:none;
@@ -39,14 +39,14 @@ a{
 
 #content{
     display: inline-block;
-    width:80%;
+    width:90%;
     margin-left:10%;
 }
 
 #filterDiv{
     height:700px;
     width:20%;
-    box-shadow:20px 20px 60px grey;
+    box-shadow:20px 20px 20px grey;
     float: left;
 }
 h1{
@@ -66,30 +66,30 @@ p{
 }
 
 #contentDiv{
-    height:700px;
+    height:661px;
     width:77%;
-    margin-left: 2%;
+    margin-left: 3%;
     float: left;
 }
 .branch{
-    height:180px;
+    height:215px;
     width:70%;
     margin-left: 2%;
     margin-top: 2%;
-    box-shadow:20px 20px 20px grey;
+    box-shadow:20px 20px 10px grey;
 }
 .branch1{
-    width:40%;
-    height:180px;
+    width:50%;
+    height:200px;
     float: left;
 }
 .branch1 > img{
-    width:100%;
-    height:160px;
+    width:80%;
+    height:215px;
     border-radius:10px;
 }
 .branch2{
-    width:45%;
+    width:50%;
     height:180px;
     float: left;
     
@@ -97,7 +97,8 @@ p{
 .componentHeading{
     text-align: center;
     font-weight:bold;
-    margin-top:10px;
+    margin-top:20px;
+    margin-left:-80px;
     font-size:20px;
     color:rgb(9, 184, 67);
 
@@ -109,21 +110,26 @@ p{
 }
 #button1{
     color:#e28b62;
+    width:100px;
 }
 #button11{
     color:rgb(14, 197, 136);
     margin-left:10px;
+    width:100px;
 }
 #button2{
     color:#c9d60b;
     margin-top: 10px;
+    width:100px;
 }
 #button21{
     color:red;
     margin-left:10px;
+    width:100px;
 }
 #b1{
-    margin-left:30px;
+    margin-left:50px;
+    margin-top: 20px;
 }
 #footer{
     height:120px;
